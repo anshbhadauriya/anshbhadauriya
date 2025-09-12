@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ansh Bhadauriya 👋</h1>
-<h3 align="center">Android Developer | Spring Boot developer | DSA Problem-Solver</h3>
+<h3 align="center">Android Developer | DSA Problem-Solver</h3>
 
 - 📫 How to reach me: **2k23.csai2310627@gmail.com**
 
