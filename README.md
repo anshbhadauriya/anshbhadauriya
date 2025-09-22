@@ -57,7 +57,7 @@
     <img src="https://img.shields.io/badge/NutriLyze-Android_App-blue?style=for-the-badge&logo=android&logoColor=white" alt="NutriLyze"/>
   </a>
   <br>
-  📱 **NutriLyze** – Scan barcodes & get product health grades in Hindi (Kotlin + XML + Firebase)
+  📱 **NutriLyze** (MINI PROJECT)– Scan barcodes & get product health grades in Hindi (Kotlin + XML + Firebase)
 </p>
 
 <p align="left">
