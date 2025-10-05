@@ -66,7 +66,7 @@
   </a>
   <br>
   💡 **Wegyanik** – A platform empowering students & institutions to innovate, learn & build future-ready tech skills through Robotics, AI, Space Science, Prototyping, and Mentorship.
-</p>
+</p> 
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshbhadauriya&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
