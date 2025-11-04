@@ -53,20 +53,20 @@
 <h3 align="left">🚀 Projects</h3>
 
 <p align="left">
-  <a href="https://nutrilyze.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/NutriLyze-Android_App-blue?style=for-the-badge&logo=android&logoColor=white" alt="NutriLyze"/>
-  </a>
-  <br>
-  📱 **NutriLyze** (MINI PROJECT)– Scan barcodes & get product health grades in Hindi (Kotlin + XML + Firebase)
-</p>
-
-<p align="left">
   <a href="https://play.google.com/store/apps/details?id=com.wegyanik.app&hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Wegyanik-Android_App-blue?style=for-the-badge&logo=android&logoColor=white" alt="Wegyanik"/>
   </a>
   <br>
   💡 **Wegyanik** – A platform empowering students & institutions to innovate, learn & build future-ready tech skills through Robotics, AI, Space Science, Prototyping, and Mentorship.
 </p> 
+
+<p align="left">
+  <a href="https://nutrilyze.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/NutriLyze-Android_App-blue?style=for-the-badge&logo=android&logoColor=white" alt="NutriLyze"/>
+  </a>
+  <br>
+  📱 **NutriLyze** (MINI PROJECT) – Scan barcodes & get product health grades in Hindi (Kotlin + XML + Firebase)
+</p>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshbhadauriya&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
