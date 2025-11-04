@@ -62,7 +62,7 @@
 
 <p align="left">
   <a href="https://play.google.com/store/apps/details?id=com.wegyanik.app&hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/Wegyanik-Under_Development-lightgrey?style=for-the-badge&logo=android&logoColor=white" alt="Wegyanik"/>
+    <img src="https://img.shields.io/badge/Wegyanik-Android_App-blue?style=for-the-badge&logo=android&logoColor=white" alt="Wegyanik"/>
   </a>
   <br>
   💡 **Wegyanik** – A platform empowering students & institutions to innovate, learn & build future-ready tech skills through Robotics, AI, Space Science, Prototyping, and Mentorship.
