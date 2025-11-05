@@ -57,7 +57,7 @@
     <img src="https://img.shields.io/badge/Wegyanik-Android_App-blue?style=for-the-badge&logo=android&logoColor=white" alt="Wegyanik"/>
   </a>
   <br>
-  💡 **Wegyanik** – A platform empowering students & institutions to innovate, learn & build future-ready tech skills through Robotics, AI, Space Science, Prototyping, and Mentorship.
+  Wegyanik – A platform empowering students & institutions to innovate, learn & build future-ready tech skills through Robotics, AI, Space Science, Prototyping, and Mentorship.
 </p> 
 
 <p align="left">
@@ -65,7 +65,7 @@
     <img src="https://img.shields.io/badge/NutriLyze-Android_App-blue?style=for-the-badge&logo=android&logoColor=white" alt="NutriLyze"/>
   </a>
   <br>
-  📱 **NutriLyze** (MINI PROJECT) – Scan barcodes & get product health grades in Hindi (Kotlin + XML + Firebase)
+  NutriLyze (MINI PROJECT) – Scan barcodes & get product health grades in Hindi (Kotlin + XML + Firebase)
 </p>
 
 <p>
