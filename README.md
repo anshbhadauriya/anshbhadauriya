@@ -1,6 +1,10 @@
-<h1 align="center">Hi, I'm Ansh Bhadauriya </h1> 
-<h3 align="center">Android Developer | DSA Problem-Solver</h3>
- 
+<h1 align="center">Hi, I'm Ansh Bhadauriya</h1>
+<h3 align="center">Android Developer | DSA Problem-Solver | Competitive Programming Enthusiast</h3>
+
+<p align="center">
+  I love competitive programming, I'm deeply into it and continuously learning to get better every day.
+</p>
+
 - 📫 How to reach me: **2k23.csai2310627@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -15,7 +19,7 @@
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" height="30" width="40"/>
   </a>
 </p>
- 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
@@ -68,6 +72,6 @@
   NutriLyze (MINI PROJECT) – Scan barcodes & get product health grades in Hindi (Kotlin + XML + Firebase)
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshbhadauriya&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshbhadauriya&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
