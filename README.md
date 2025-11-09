@@ -58,7 +58,9 @@
     <img src="https://img.shields.io/badge/Wegyanik-Android_App-blue?style=for-the-badge&logo=android&logoColor=white" alt="WeGyanik"/>
   </a>
 </p>
-An Android application for **Wegyanik.in**, an Education & Innovation platform empowering students through Robotics, AI, Space Science, and Mentorship.
+An Android application for 
+<a href="https://wegyanik.in/" target="_blank"><b>Wegyanik.in</b></a>, 
+an Education & Innovation platform empowering students through Robotics, AI, Space Science, and Mentorship.
 
 **✨ Features:**  
 - Material Design 3 UI  
