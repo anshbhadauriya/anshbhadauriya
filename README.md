@@ -1,6 +1,12 @@
-<h1 align="center">Hi, I'm Ansh Bhadauriya</h1>
-<h3 align="center">Competitive Programming Enthusiast | Android Developer</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ansh%20Bhadauriya&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Competitive%20Programmer%20%7C%20Android%20Developer&descAlignY=55&descAlign=50"/>
+</div>
 
+
+
+---
+
+<!-- 🙋 About Me -->
 <p align="center">
   I love competitive programming, I'm deeply into it and continuously learning to get better every day.
 </p>
@@ -9,21 +15,23 @@
 
 ---
 
+<!-- 🔗 Connect With Me -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/ansh-bhadauriya-085668274" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://linkedin.com/in/ansh-bhadauriya-085668274" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="mailto:2k23.csai2310627@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40"/>
+  <a href="mailto:2k23.csai2310627@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="40"/>
   </a>
-  <a href="https://github.com/anshbhadauriya" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" height="30" width="40"/>
+  <a href="https://github.com/anshbhadauriya" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" height="30" width="40"/>
   </a>
 </p>
 
 ---
 
+<!-- 🛠 Languages & Tools -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/> 
@@ -40,56 +48,53 @@
 
 ---
 
+<!-- 🚀 Projects Section -->
 <h3 align="left">🚀 Projects</h3>
 
 ### 📱 WeGyanik – Education & Innovation Platform (Android App)
 <p align="left">
-  <a href="https://play.google.com/store/apps/details?id=com.wegyanik.app&hl=en" target="_blank" rel="noopener noreferrer">
+  <a href="https://play.google.com/store/apps/details?id=com.wegyanik.app&hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Wegyanik-Android_App-blue?style=for-the-badge&logo=android&logoColor=white" alt="WeGyanik"/>
   </a>
 </p>
-
-An Android application for **Wegyanik.in**, an Education & Innovation platform that empowers students and institutions through Robotics, AI, Space Science, Prototyping & Mentorship.
+An Android application for **Wegyanik.in**, an Education & Innovation platform empowering students through Robotics, AI, Space Science, and Mentorship.
 
 **✨ Features:**  
-- Modern UI with Material Design 3  
-- Dark/Light Mode Support  
-- Navigation Drawer & Bottom Navigation  
-- REST API Integration with Wegyanik Backend  
-- Firebase Authentication & Cloud Services  
+- Material Design 3 UI  
+- Dark/Light Mode  
+- REST API + Firebase  
+- Navigation Drawer + Bottom Navigation  
 
-**🛠 Tech Stack:** Kotlin, XML, Retrofit, Hilt, Firebase, Material Design  
-
-📂 **GitHub:** https://github.com/anshbhadauriya/Wegyanik  
-📱 <a href="https://play.google.com/store/apps/details?id=com.wegyanik.app&hl=en&pli=1" target="_blank" rel="noopener noreferrer">Download APK</a>  
+**🛠 Tech Stack:** Kotlin, XML, Retrofit, Hilt, Firebase  
+📂 GitHub: https://github.com/anshbhadauriya/Wegyanik  
+📱 <a href="https://play.google.com/store/apps/details?id=com.wegyanik.app&hl=en" target="_blank">Download APK</a>  
 
 ---
 
-### 🍏 NutriLyze – Scan, Analyze & Eat Smart (Android App)
+### 🍏 NutriLyze – Scan, Analyze & Eat Smart
 
 <p align="left">
-  <a href="https://nutrilyze.netlify.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://nutrilyze.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/NutriLyze-Android_App-green?style=for-the-badge&logo=android&logoColor=white" alt="NutriLyze"/>
   </a>
 </p>
-
-An Android application that allows users to scan a product’s barcode and instantly get its **Health Grade in Hindi**, making nutritional data easy to understand for Indian users.
+Scan barcodes and get **Health Grades in Hindi**, making nutrition easy for Indian users.
 
 **✨ Features:**  
-- Barcode Scanning using ML Kit  
-- Fetches product info & nutrients via API  
-- Generates Health Grade (A–E) using nutrition logic  
-- Hindi Language Support  
-- Firebase Authentication & Realtime Database  
-- Modern XML UI + Material Design 3  
+- ML Kit Barcode Scanner  
+- Nutrition API Integration  
+- Hindi Health Grade (A–E)  
+- Firebase Auth + Realtime DB  
+- Modern XML + Material 3  
 
-**🛠 Tech Stack:** Kotlin, XML, Firebase, Retrofit, ML Kit, MVVM  
-
-📂 **GitHub:** https://github.com/anshbhadauriya/NutriLyze  
-📱 <a href="https://nutrilyze.netlify.app/" target="_blank" rel="noopener noreferrer">Download APK</a>  
+**🛠 Tech Stack:** Kotlin, XML, MVVM, Firebase  
+📂 GitHub: https://github.com/anshbhadauriya/NutriLyze  
+📱 <a href="https://nutrilyze.netlify.app/" target="_blank">Download APK</a>  
 
 ---
 
+<!-- 📊 GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshbhadauriya&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshbhadauriya&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
 </p>
+
