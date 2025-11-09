@@ -60,6 +60,9 @@ An Android application for **Wegyanik.in**, an Education & Innovation platform t
 
 **🛠 Tech Stack:** Kotlin, XML, Retrofit, Hilt, Firebase, Material Design  
 
+📂 **GitHub:** https://github.com/anshbhadauriya/Wegyanik  
+📱 **Download APK:** *(https://play.google.com/store/apps/details?id=com.wegyanik.app&hl=en&pli=1)*  
+
 ---
 
 ### 🍏 NutriLyze – Scan, Analyze & Eat Smart (Android App)
