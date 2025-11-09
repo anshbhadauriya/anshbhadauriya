@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ansh Bhadauriya</h1>
-<h3 align="center">Android Developer | DSA Problem-Solver | Competitive Programming Enthusiast</h3>
+<h3 align="center">Competitive Programming Enthusiast | Android developer </h3>
 
 <p align="center">
   I love competitive programming, I'm deeply into it and continuously learning to get better every day.
