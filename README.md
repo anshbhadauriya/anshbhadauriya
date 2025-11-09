@@ -9,7 +9,7 @@
 
 <!-- 🙋 About Me -->
 <p align="center">
-  I love competitive programming, I'm deeply into it and continuously learning to get better every day.
+  I’m passionate about competitive programming and constantly improving my problem-solving skills through daily practice.
 </p>
 
 - 📫 Reach me at: **2k23.csai2310627@gmail.com**
