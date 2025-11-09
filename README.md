@@ -54,15 +54,21 @@
   </a>
 </p>
 
-<h3 align="left">🚀 Projects</h3>
+## 📱 Projects  
 
-<p align="left">
-  <a href="https://play.google.com/store/apps/details?id=com.wegyanik.app&hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/Wegyanik-Android_App-blue?style=for-the-badge&logo=android&logoColor=white" alt="Wegyanik"/>
-  </a>
-  <br>
-  Wegyanik – A platform empowering students & institutions to innovate, learn & build future-ready tech skills through Robotics, AI, Space Science, Prototyping, and Mentorship.
-</p> 
+### 🚀 WeGyanik – Education & Innovation Platform (Android App)  
+An Android app for [Wegyanik.in](https://www.wegyanik.in), an **Education & Innovation platform** that provides students and institutions with technology kits, workshops, and innovation programs.  
+
+**✨ Features:**  
+- Modern UI with Material Design 3  
+- Light/Dark Mode support  
+- Navigation Drawer & Bottom Navigation  
+- API & Database integration with Wegyanik backend  
+- Firebase Authentication & Services  
+
+**🛠 Tech Stack:** Kotlin, Android Studio, Material Design, XML Layouts, Retrofit, Hilt, Firebase  
+📂 [WeGyanik](https://github.com/anshbhadauriya/WeGyanik)  
+📱 [Download APK](#) (https://play.google.com/store/apps/details?id=com.wegyanik.app&hl=en" target="_blank)  
 
 <p align="left">
   <a href="https://nutrilyze.netlify.app" target="_blank">
