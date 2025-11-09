@@ -69,7 +69,6 @@ an Education & Innovation platform empowering students through Robotics, AI, Spa
 - Navigation Drawer + Bottom Navigation  
 
 **🛠 Tech Stack:** Kotlin, XML, Retrofit, Hilt, Firebase  
-📂 GitHub: https://github.com/anshbhadauriya/Wegyanik  
 📱 <a href="https://play.google.com/store/apps/details?id=com.wegyanik.app&hl=en" target="_blank">Download APK</a>  
 
 ---
