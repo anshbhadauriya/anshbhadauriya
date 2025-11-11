@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ansh%20Bhadauriya&fontSize=50&fontColor=fff&fontAlignY=35&desc=Competitive%20Programmer%20%7C%20Android%20Developer&descAlignY=55&descAlign=50"/>
 </div>
 
-
-
-
 ---
 
 <!-- 🙋 About Me -->
@@ -58,8 +55,8 @@
     <img src="https://img.shields.io/badge/Wegyanik-Android_App-blue?style=for-the-badge&logo=android&logoColor=white" alt="WeGyanik"/>
   </a>
 </p>
-An Android application for 
-<a href="https://wegyanik.in/" target="_blank"><b>Wegyanik.in</b></a>, 
+An Android application for  
+<a href="https://wegyanik.in/" target="_blank"><b>Wegyanik.in</b></a>,  
 an Education & Innovation platform empowering students through Robotics, AI, Space Science, and Mentorship.
 
 **✨ Features:**  
@@ -67,14 +64,14 @@ an Education & Innovation platform empowering students through Robotics, AI, Spa
 - Dark/Light Mode  
 - REST API + Firebase  
 - Navigation Drawer + Bottom Navigation  
+- **Secure Payment Integration (Razorpay Gateway)** 💳  
 
-**🛠 Tech Stack:** Kotlin, XML, Retrofit, Hilt, Firebase  
+**🛠 Tech Stack:** Kotlin, XML, Retrofit, Hilt, Firebase, Razorpay SDK  
 📱 <a href="https://play.google.com/store/apps/details?id=com.wegyanik.app&hl=en" target="_blank">Download APK</a>  
 
 ---
 
 ### 🍏 NutriLyze – Scan, Analyze & Eat Smart
-
 <p align="left">
   <a href="https://nutrilyze.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/NutriLyze-Android_App-green?style=for-the-badge&logo=android&logoColor=white" alt="NutriLyze"/>
@@ -99,4 +96,3 @@ Scan barcodes and get **Health Grades in Hindi**, making nutrition easy for Indi
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshbhadauriya&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
 </p>
-
