@@ -46,6 +46,28 @@
 
 ---
 
+<!-- 🏆 Competitive Programming -->
+<h3 align="left">Problem Solving Platforms</h3>
+
+<p align="left">
+  <a href="https://leetcode.com/u/anshbhadauriya/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+
+  <a href="https://codeforces.com/profile/anshbhadauriya" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+
+  <a href="https://www.codechef.com/users/anshbhadauriya" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/profile/2k23csai9lgg" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+</p>
+
+
 <!-- 🚀 Projects Section -->
 <h3 align="left">🚀 Projects</h3>
 
