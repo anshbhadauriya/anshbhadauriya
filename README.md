@@ -65,6 +65,10 @@
   <a href="https://www.geeksforgeeks.org/profile/2k23csai9lgg" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
+
+   <a href="https://cses.fi/user/367981" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/CSES-Profile-purple?style=for-the-badge&logo=code&logoColor=white"/>
+  </a>
 </p>
 
 
