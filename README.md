@@ -22,9 +22,6 @@
   <a href="mailto:2k23.csai2310627@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="40"/>
   </a>
-  <a href="https://github.com/anshbhadauriya" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" height="30" width="40"/>
-  </a>
 </p>
  
 ---
@@ -40,7 +37,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>   
 </p>
 
