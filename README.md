@@ -6,7 +6,7 @@
 
 <!-- 🙋 About Me -->
 <p align="center">
-  I’m passionate about competitive programming and constantly improving my problem-solving skills through daily practice.
+  Trash in development, okayish in DSA
 </p>
 
 - 📫 Reach me at: **2k23.csai2310627@gmail.com**
