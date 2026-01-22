@@ -58,7 +58,7 @@
     <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 
-  <a href="https://www.geeksforgeeks.org/profile/2k23csai9lgg" target="_blank">
+  <a href="https://www.geeksforgeeks.org/profile/2k23csai9lgg?tab=activity" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
 
