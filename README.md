@@ -114,7 +114,4 @@ Scan barcodes and get **Health Grades in Hindi**, making nutrition easy for Indi
 
 ---
 
-<!-- 📊 GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshbhadauriya&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-</p>
+
