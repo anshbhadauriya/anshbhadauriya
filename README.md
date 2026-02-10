@@ -62,6 +62,11 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
 
+  <a href="https://www.hackerrank.com/profile/ai1A_2310627" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+
    <a href="https://cses.fi/user/367981" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/CSES-Profile-purple?style=for-the-badge&logo=code&logoColor=white"/>
   </a>
