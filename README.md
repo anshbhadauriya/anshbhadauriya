@@ -120,3 +120,23 @@ Scan barcodes and get **Health Grades in Hindi**, making nutrition easy for Indi
 ---
 
 
+### 📊 AttendX – Smart Attendance Management System
+<p align="left">
+  <a href="https://atttendx.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/AttendX-Android_App-purple?style=for-the-badge&logo=android&logoColor=white" alt="AttendX"/>
+  </a>
+</p>
+
+A smart Android-based attendance system that simplifies classroom attendance using **QR-based session tracking**.
+
+**✨ Features:**  
+- QR Code-based Attendance System 📷  
+- Real-time Student Tracking  
+- Session-wise Attendance Records  
+- Teacher Dashboard for Class Management  
+- Firebase Integration for Live Data Sync  
+
+**🛠 Tech Stack:** Kotlin, XML, Firebase, MVVM  
+📱 <a href="https://atttendx.netlify.app/" target="_blank">Download APK</a>  
+
+
