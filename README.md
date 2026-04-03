@@ -137,6 +137,8 @@ A smart Android-based attendance system that simplifies classroom attendance usi
 - Firebase Integration for Live Data Sync  
 
 **🛠 Tech Stack:** Kotlin, XML, Firebase, MVVM  
+- 📂 GitHub: https://github.com/anshbhadauriya/AttendX
 📱 <a href="https://atttendx.netlify.app/" target="_blank">Download APK</a>  
+
 
 
