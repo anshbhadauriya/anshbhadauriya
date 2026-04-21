@@ -127,5 +127,72 @@
 
 ---
 
+---
+
 <!-- 🚀 Projects -->
 <h3 align="left">🚀 Projects</h3>
+
+### 📱 WeGyanik – Education & Innovation Platform (Android App)
+<p align="left">
+  <a href="https://play.google.com/store/apps/details?id=com.wegyanik.app&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Wegyanik-Android_App-blue?style=for-the-badge&logo=android&logoColor=white" alt="WeGyanik"/>
+  </a>
+</p>
+
+An Android application for  
+<a href="https://wegyanik.in/" target="_blank"><b>Wegyanik.in</b></a>,  
+an Education & Innovation platform empowering students through Robotics, AI, Space Science, and Mentorship.
+
+**✨ Features:**  
+- Material Design 3 UI  
+- Dark/Light Mode  
+- REST API + Firebase  
+- Navigation Drawer + Bottom Navigation  
+- Secure Payment Integration (Razorpay Gateway) 💳  
+
+**🛠 Tech Stack:** Kotlin, XML, Retrofit, Hilt, Firebase, Razorpay SDK  
+📱 <a href="https://play.google.com/store/apps/details?id=com.wegyanik.app&hl=en" target="_blank">Download APK</a>  
+
+---
+
+### 🍏 NutriLyze – Scan, Analyze & Eat Smart
+<p align="left">
+  <a href="https://nutrilyze.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/NutriLyze-Android_App-green?style=for-the-badge&logo=android&logoColor=white" alt="NutriLyze"/>
+  </a>
+</p>
+
+Scan barcodes and get **Health Grades in Hindi**, making nutrition easy for Indian users.
+
+**✨ Features:**  
+- ML Kit Barcode Scanner  
+- Nutrition API Integration  
+- Hindi Health Grade (A–E)  
+- Firebase Auth + Realtime DB  
+- Modern XML + Material 3  
+
+**🛠 Tech Stack:** Kotlin, XML, MVVM, Firebase  
+📂 GitHub: https://github.com/anshbhadauriya/NutriLyze  
+📱 <a href="https://nutrilyze.netlify.app/" target="_blank">Download APK</a>  
+
+---
+
+### 📊 AttendX – Smart Attendance Management System
+<p align="left">
+  <a href="https://atttendx.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/AttendX-Android_App-purple?style=for-the-badge&logo=android&logoColor=white" alt="AttendX"/>
+  </a>
+</p>
+
+A smart Android-based attendance system that simplifies classroom attendance using **QR-based session tracking**.
+
+**✨ Features:**  
+- QR Code-based Attendance System 📷  
+- Real-time Student Tracking  
+- Session-wise Attendance Records  
+- Teacher Dashboard for Class Management  
+- Firebase Integration for Live Data Sync  
+
+**🛠 Tech Stack:** Kotlin, XML, Firebase, MVVM  
+📂 GitHub: https://github.com/anshbhadauriya/AttendX  
+📱 <a href="https://atttendx.netlify.app/" target="_blank">Download APK</a>  
