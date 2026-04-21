@@ -6,13 +6,13 @@
 
 <!-- 🙋 About Me -->
 <p align="center">
-  <!-- Trash in development, okayish in DSA -->
+  <!-- Add your intro here if needed -->
 </p>
 
 - 📫 Reach me at: **2k23.csai2310627@gmail.com**
 
 ---
- 
+
 <!-- 🔗 Connect With Me -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,22 +23,76 @@
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="40"/>
   </a>
 </p>
- 
+
 ---
 
-<!-- 🛠 Languages & Tools -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>   
-</p>
+<!-- 🛠 Skill Set -->
+<br>
+
+<div align="center">
+  <h1>Skill Set &nbsp; <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"></h1>
+  <h4>Technologies I use to build scalable apps and solve real-world problems.</h4>
+</div>
+
+<table align="center">
+
+<!-- Languages -->
+<tr>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/><br>C++
+</td>
+
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/><br>Java
+</td>
+
+<td align="center" width="100">
+<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/><br>Kotlin
+</td>
+
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript
+</td>
+</tr>
+
+<!-- Backend -->
+<tr>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/><br>Node.js
+</td>
+
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/><br>Express.js
+</td>
+
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/><br>MongoDB
+</td>
+
+<td align="center" width="100">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/><br>Firebase
+</td>
+</tr>
+
+<!-- Frontend -->
+<tr>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/><br>HTML
+</td>
+
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/><br>CSS
+</td>
+</tr>
+
+<!-- Platform -->
+<tr>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/><br>Android
+</td>
+</tr>
+
+</table>
 
 ---
 
@@ -63,82 +117,15 @@
   </a>
 
   <a href="https://www.hackerrank.com/profile/ai1A_2310627" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
 
-
-   <a href="https://cses.fi/user/367981" target="_blank" rel="noopener noreferrer">
+  <a href="https://cses.fi/user/367981" target="_blank">
     <img src="https://img.shields.io/badge/CSES-Profile-purple?style=for-the-badge&logo=code&logoColor=white"/>
   </a>
 </p>
 
+---
 
-<!-- 🚀 Projects Section -->
+<!-- 🚀 Projects -->
 <h3 align="left">🚀 Projects</h3>
-
-### 📱 WeGyanik – Education & Innovation Platform (Android App)
-<p align="left">
-  <a href="https://play.google.com/store/apps/details?id=com.wegyanik.app&hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/Wegyanik-Android_App-blue?style=for-the-badge&logo=android&logoColor=white" alt="WeGyanik"/>
-  </a>
-</p>
-An Android application for  
-<a href="https://wegyanik.in/" target="_blank"><b>Wegyanik.in</b></a>,  
-an Education & Innovation platform empowering students through Robotics, AI, Space Science, and Mentorship.
-
-**✨ Features:**  
-- Material Design 3 UI  
-- Dark/Light Mode  
-- REST API + Firebase  
-- Navigation Drawer + Bottom Navigation  
-- **Secure Payment Integration (Razorpay Gateway)** 💳  
-
-**🛠 Tech Stack:** Kotlin, XML, Retrofit, Hilt, Firebase, Razorpay SDK  
-📱 <a href="https://play.google.com/store/apps/details?id=com.wegyanik.app&hl=en" target="_blank">Download APK</a>  
-
----
-
-### 🍏 NutriLyze – Scan, Analyze & Eat Smart
-<p align="left">
-  <a href="https://nutrilyze.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/NutriLyze-Android_App-green?style=for-the-badge&logo=android&logoColor=white" alt="NutriLyze"/>
-  </a>
-</p>
-Scan barcodes and get **Health Grades in Hindi**, making nutrition easy for Indian users.
-
-**✨ Features:**  
-- ML Kit Barcode Scanner  
-- Nutrition API Integration  
-- Hindi Health Grade (A–E)  
-- Firebase Auth + Realtime DB  
-- Modern XML + Material 3  
-
-**🛠 Tech Stack:** Kotlin, XML, MVVM, Firebase  
-📂 GitHub: https://github.com/anshbhadauriya/NutriLyze  
-📱 <a href="https://nutrilyze.netlify.app/" target="_blank">Download APK</a>  
-
----
-
-
-### 📊 AttendX – Smart Attendance Management System
-<p align="left">
-  <a href="https://atttendx.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/AttendX-Android_App-purple?style=for-the-badge&logo=android&logoColor=white" alt="AttendX"/>
-  </a>
-</p>
-
-A smart Android-based attendance system that simplifies classroom attendance using **QR-based session tracking**.
-
-**✨ Features:**  
-- QR Code-based Attendance System 📷  
-- Real-time Student Tracking  
-- Session-wise Attendance Records  
-- Teacher Dashboard for Class Management  
-- Firebase Integration for Live Data Sync  
-
-**🛠 Tech Stack:** Kotlin, XML, Firebase, MVVM  
-- 📂 GitHub: https://github.com/anshbhadauriya/AttendX
-📱 <a href="https://atttendx.netlify.app/" target="_blank">Download APK</a>  
-
-
-
